@@ -12,7 +12,7 @@ Contents:
     widgets/index
     3dgraphics/index
     colormap
-    parametertree/apiref
+    parametertree/index
     dockarea
     graphicsscene/index
     flowchart/index
