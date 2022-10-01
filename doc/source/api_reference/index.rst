@@ -1,3 +1,5 @@
+.. _pyqtgraph_api_ref:
+
 API Reference
 =============
 
