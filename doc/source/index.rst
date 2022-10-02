@@ -1,9 +1,12 @@
 PyQtGraph
 =========
 
+A pure-python graphics and GUI library built on PyQt / PySide and numpy for use in mathematics / scientific / engineering applications.
+
 .. toctree::
     :hidden:
     :maxdepth: 1
+    :hidden:
 
     getting_started/index
     user_guide/index
@@ -18,7 +21,7 @@ PyQtGraph
         Getting started
         ^^^^^^^^^^^^^^^
 
-        New to *PyQtGraph* Check out the getting started guides.
+        New to PyQtGraph? Check out the getting started guides.
 
         +++
 
@@ -35,7 +38,7 @@ PyQtGraph
         User guide
         ^^^^^^^^^^
 
-        The user guide provides in-depth information on the key concepts of PyQtGraph
+        The user guide provides in-depth information on the key concepts of PyQtGraph.
 
         +++
 
@@ -52,7 +55,7 @@ PyQtGraph
         API Reference
         ^^^^^^^^^^^^^
 
-        The reference guide contains a detailed description of the PyQtGraph API
+        The reference guide contains a detailed description of the PyQtGraph API.
 
         +++
 
@@ -70,7 +73,7 @@ PyQtGraph
         Developer guide
         ^^^^^^^^^^^^^^^
 
-        Guide to contributing to PyQtGraph
+        Guide to contributing to PyQtGraph.
 
         +++
 
