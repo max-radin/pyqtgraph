@@ -1,4 +1,4 @@
-/* contents brought fom scipy.css */
+/* contents from scipy project */
 /* SciPy specifics */
 
 /* Remove parenthesis around module using fictive font and add them back.
@@ -130,8 +130,9 @@ Matplotlib images are in png and inverted while other output
 types are assumed to be normal images.
 
 */
-html[data-theme=dark] img[src*='.svg'] {
-    filter: invert(0.82) brightness(0.8) contrast(1.2);
+html[data-theme=dark] img[src*='.svg']:not(.only-dark) {
+    filter: brightness(0.8) invert(0.82) contrast(1.2);
+    background: none;
 }
 
 html[data-theme=dark] .MathJax_SVG *  {
